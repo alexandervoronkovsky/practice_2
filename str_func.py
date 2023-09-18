@@ -6,9 +6,4 @@ def upper_word():
 upper_word()
 
 
-def title_word():
-    """функция которая делает заглавными первые буквы каждого слова в строке"""
-    string = "hello word"
-    print(string.title())
 
-title_word()
